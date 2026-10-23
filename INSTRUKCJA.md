@@ -17,7 +17,7 @@ Zobaczysz ekran powitalny z trzema drogami:
 
 ## Codzienne używanie
 - **Pulpit** – majątek razem, struktura kont, „Do zrobienia” (kliknięcie prowadzi tam, gdzie sprawę się załatwia), podpowiedź wpłaty dla wybranego konta (IKE, IKZE albo rachunek zwykły – tu według docelowych udziałów, które ustawisz przy pozycjach), najbliższe kroki i terminy. Plany miesięcznych wpłat każdego konta ustawisz w *Ustawienia → Plan i zasady*.
-- **Portfel** – pozycje IKE/IKZE i rachunku zwykłego, wpłaty, satelity (tezy), historia. Kliknij pozycję, żeby wpisać wartość z XTB albo zmienić dane.
+- **Portfel** – pozycje IKE/IKZE i rachunku zwykłego, wpłaty (na IKE, IKZE i rachunek zwykły, z kalendarzem planu każdego konta), satelity (tezy), historia. Kliknij pozycję, żeby wpisać wartość z XTB albo zmienić dane.
 - **Transakcje** – księga operacji, średnie ceny i zamknięte pozycje, zestawienie PIT-38.
 - **Oszczędności** – lokaty, konta oszczędnościowe, obligacje skarbowe. Gdy lokata się kończy (albo ją zrywasz), kliknij **„Zakończ”** i wskaż, gdzie trafiły pieniądze – na konto oszczędnościowe, nową lokatę, IKE/IKZE (zapisze się wpłata), rachunek zwykły albo poza program; możesz rozdzielić kwotę na kilka miejsc. Zakończone lokaty i ich wynik są w podzakładce **Historia** (tam też „Cofnij”).
 - **Ustawienia** – zasady planu, źródła cen, import z XTB, kopia zapasowa.
