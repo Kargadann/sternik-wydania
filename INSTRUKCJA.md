@@ -13,7 +13,7 @@ Sternik pilnuje Twojego długoterminowego planu inwestycyjnego (IKE, IKZE, rachu
 Zobaczysz ekran powitalny z trzema drogami:
 - **Zacznij od pustego planu** – wpisz miesięczną wpłatę, miesiąc startu i limit IKE (podpowiedziany ustawowy). Resztę zasad zmienisz w *Ustawienia → Plan i zasady*.
 - **Wczytaj kopię (.json)** – jeśli masz kopię danych z Sternika (np. z innego komputera).
-- **Zaimportuj historię z XTB** – w xStation wygeneruj historię konta do pliku .xlsx (osobno dla każdego konta, okres od założenia konta) i wskaż pliki.
+- **Zaimportuj historię z XTB** – w xStation wygeneruj historię konta do pliku .xlsx (osobno dla każdego konta, okres od założenia konta) i wskaż pliki. Później wystarczą krótsze raporty: od dnia poprzedniego importu (albo wcześniej) do dziś – Sternik doliczy nowe operacje do zapamiętanego salda gotówki. Gdy raport zaczyna się za późno, import się wstrzyma i Sternik poda, od kiedy wygenerować raport. Po aktualizacji do 1.5.1 zaimportuj raz raporty od założenia konta, żeby Sternik zapamiętał salda. Przelew z rachunku zwykłego na IKE/IKZE widać na liście wpłat jako ujemną wpłatę rachunku zwykłego – te pieniądze liczą się tylko jako wpłata na IKE.
 
 ## Codzienne używanie
 - **Pulpit** – majątek razem, struktura kont, „Do zrobienia” (kliknięcie prowadzi tam, gdzie sprawę się załatwia), podpowiedź wpłaty dla wybranego konta (IKE, IKZE albo rachunek zwykły – tu według docelowych udziałów, które ustawisz przy pozycjach), **Zadania** (Twoja lista spraw z terminami: kliknięcie treści otwiera okno – można ustawić powtarzanie co miesiąc, kwartał lub rok, obszar i notatkę; zrobione dawniej niż 90 dni temu trafiają do archiwum) i terminy oszczędności. Plany miesięcznych wpłat każdego konta ustawisz w *Ustawienia → Plan i zasady*.
